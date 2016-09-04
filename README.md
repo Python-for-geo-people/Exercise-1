@@ -7,7 +7,7 @@ The process for creating a [GitHub.com](https://www.github.com) account is strai
 1. Open a web browser and navigate to [https://www.github.com](https://www.github.com).
 2. On the [GitHub.com](https://www.github.com) home page, click on the green **Sign up** button on the top right.
 
-    ![GitHub home](../img/GitHub-home.png)
+    ![GitHub home](img/GitHub-home.png)
 3. Enter a username, email address, and password. Click **Create an account**.
 4. When prompted to select a plan, choose the free option. We will provide private repositories through the course account.
 5. **Important**: After you have created your account, please send an email to your course instructor with your username. This will allow us to add you to the [course GitHub organization](https://github.com/Python-for-geo-people/), which is how much of the course materials will be distributed in the future.
