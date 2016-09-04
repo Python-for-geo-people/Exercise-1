@@ -27,6 +27,11 @@ Following the instructions you've already used for connecting to a cloud compute
 Going through this process will help you become familiar with using the cloud computer system that we will regularly use in this course.
 
 ## What to submit
-Your assignment is to send an email to your course instructor containing (1) your GitHub.com username, and (2) the output of the command you're asked to run in IPython. This message should be sent **no later than Friday 9.9 at midnight**.
+Your assignment is to send an email to your course instructor containing
 
-In case you're curious, we will add you to the [course GitHub organization](https://github.com/Python-for-geo-people/) using your GitHub username. Future exercises and course materials will be distributed using your [GitHub.com](https://www.github.com) accounts, and your solutions to the exercises will be stored privately in your own GitHub file repositories.
+1. **Your GitHub.com username**
+2. **The output from the command you're asked to run in IPython**
+
+This message should be sent **no later than Friday 9.9 at midnight**.
+
+**Note**: *In case you're curious, we will add you to the [course GitHub organization](https://github.com/Python-for-geo-people/) using your GitHub username. Future exercises and course materials will be distributed using your [GitHub.com](https://www.github.com) accounts, and your solutions to the exercises will be stored privately in your own GitHub file repositories.*
