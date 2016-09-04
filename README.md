@@ -1,5 +1,5 @@
 # Exercise 1: Creating a GitHub account and using the cloud
-The exercise for this week should be pretty simple and comprises two parts. First, you need to go to [GitHub.com](https://www.github.com) and create an account. Second, you need to go through the practice of creating a computer instance, connecting to it, opening an IPython interpreter window, and destroying the instance. Both tasks are described below, as well as what you need to submit for each task.
+The exercise for this week should be pretty simple and comprises two parts. First, you need to go to [GitHub.com](https://www.github.com) and create an account. Second, you need to go through the process of using one of the cloud computers from start to finish. Both tasks are described below, as well as what you need to submit for each task.
 
 ## Create a GitHub.com account
 The process for creating a [GitHub.com](https://www.github.com) account is straightforward.
@@ -14,8 +14,8 @@ The process for creating a [GitHub.com](https://www.github.com) account is strai
 ## Use the cloud
 Following the instructions you've already used for connecting to a cloud computer, repeat the process. Specifically, you should
 
-1. [Login on the Pouta Blueprints computing dashboard and create a new computer instance](https://github.com/Python-for-geo-people/A-taste-of-Python/blob/master/Background/launch-instance.md)
-2. [Connect to the new instance](https://github.com/Python-for-geo-people/A-taste-of-Python/blob/master/Background/connect-to-instance.md)
+1. [Login on the Computing Dashboard and create a new computer instance](https://github.com/Python-for-geo-people/A-taste-of-Python/blob/master/Background/launch-instance.md)
+2. [Connect to the new computer instance](https://github.com/Python-for-geo-people/A-taste-of-Python/blob/master/Background/connect-to-instance.md)
 3. [Open an IPython interpreter window](https://github.com/Python-for-geo-people/A-taste-of-Python/blob/master/Lesson/A-taste-of-Python.md#getting-started) and run the command that follows by typing it in exactly as shown and pressing **Enter**
 
     ```python
