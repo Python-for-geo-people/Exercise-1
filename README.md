@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercise 1: Creating a GitHub account and using the cloud
 The exercise for this week should be pretty simple and comprises two parts. First, you need to go to [GitHub.com](https://www.github.com) and create an account. Second, you need to go through the practice of creating a computer instance, connecting to it, opening an IPython interpreter window, and destroying the instance. Both tasks are described below, as well as what you need to submit for each task.
 
 ## Create a GitHub.com account
